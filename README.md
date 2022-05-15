@@ -9,7 +9,7 @@ The three seperate ipynb source files are distinguished by name into three parts
 * ECONet_Anomaly_Part2 (optional/tuning/testing)
 * ECONet_Anomaly_Part3 (required/evaluation)  
 
-A lengthy report has also been written detailing our data and results which can be provided upon request
+A lengthy report has also been written detailing our data and results which can be provided upon request.
 
 ## Creators
 * Mathew Deel

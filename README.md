@@ -1,5 +1,10 @@
 # econet-anomaly-detection
 
+## Contributors
+* Mathew Deel
+* Sean McKone
+* Amanda Richardson
+
 ## Environment Setup
 In order to properly run our Jupyter Notebook code, you must first download the three ipynb files onto your local machine. In this directory, a subdirectory folder must exist called "ECONet" which contains all of the raw ECONet data. This data is too large to be stored on github and must be obtained seperately. At minimum the "train.csv" and "test.csv" files must be present because those are directly used for experimenting and results. Our code is meant to be run and has been tested on Jupyter Notebook exclusively even though other versions of Jupyter exist.
 
@@ -10,8 +15,3 @@ The three seperate ipynb source files are distinguished by name into three parts
 * ECONet_Anomaly_Part3 (required/evaluation)  
 
 A lengthy report has also been written detailing our data and results which can be provided upon request.
-
-## Contributors
-* Mathew Deel
-* Sean McKone
-* Amanda Richardson

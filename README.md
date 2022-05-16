@@ -11,7 +11,7 @@ The three seperate ipynb source files are distinguished by name into three parts
 
 A lengthy report has also been written detailing our data and results which can be provided upon request.
 
-## Creators
+## Contributors
 * Mathew Deel
 * Sean McKone
 * Amanda Richardson
